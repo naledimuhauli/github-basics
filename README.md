@@ -12,7 +12,7 @@ This project is part of a collaborative exercise to practice using GitHub with t
 ## 🧑‍🤝‍🧑 Contributors
 
 - **Siphokazi Naledi Muhauli** (Repo Owner)
-- **Mimi Tshenolo Millicent Mogane** (Collaborator) please write your full name 
+- **Mimi Tshenolo Millicent Mogane** (Collaborator) 
 
 ## 📝 Instructions Followed
 
@@ -27,6 +27,6 @@ Secondly, I added text after the last line.
 
 ## 🏁 Result
 
-write whatever you want here
 This is a random statement to complete the task. 
+Successful collaboration and contribution completed! 🎉
  
