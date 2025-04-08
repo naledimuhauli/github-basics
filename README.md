@@ -12,11 +12,12 @@ This project is part of a collaborative exercise to practice using GitHub with t
 ## 🧑‍🤝‍🧑 Contributors
 
 - **Siphokazi Naledi Muhauli** (Repo Owner)
-- **Mimi** (Collaborator) please write your full name 
+- **Mimi Tshenolo Millicent Mogane** (Collaborator) please write your full name 
 
 ## 📝 Instructions Followed
 
-ADD THEM HERE!
+Firstly, I wrote my full names.
+Secondly, I added text after the last line. 
 
 ## 🛠️ Technologies Used
 
@@ -27,5 +28,5 @@ ADD THEM HERE!
 ## 🏁 Result
 
 write whatever you want here
-
+This is a random statement to complete the task. 
  
